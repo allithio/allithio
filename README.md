@@ -33,30 +33,26 @@ My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also 
 
 <!-- Social Media -->
 ### Follow me :
-<ul class="d-flex flex-column justify-content-around align-items-center list-unstyled text-decoration-none">
-<li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Instagram" height="25" width="25"><a href="https://instagram.com/aallithioo/"> Instagram</a></li>
-<li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Twitter" height="25" width="25"><a href="https://twitter.com/aallithioo/"> Twitter</a></li>
-<li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Facebook" height="25" width="25"><a href="https://facebook.com/aallithioo/"> Facebook</a></li>
-<li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="LinkedIn" height="25" width="25"><a href="https://linkedIn.com/aallithioo/"> LinkedIn</a></li>
-<li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="codepen" height="25" width="25"><a href="https://codepen.com/aallithioo/"> Codepen</a></li>
+<section class="d-flex flex-column justify-content-around align-items-center list-unstyled text-decoration-none">
+<divclass="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Instagram" height="25" width="25"><a href="https://instagram.com/aallithioo/"> Instagram</a></div>
+<div class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Twitter" height="25" width="25"><a href="https://twitter.com/aallithioo/"> Twitter</a></div>
+<div class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Facebook" height="25" width="25"><a href="https://facebook.com/aallithioo/"> Facebook</a></div>
+<div class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="LinkedIn" height="25" width="25"><a href="https://linkedIn.com/aallithioo/"> LinkedIn</a></div>
+<div class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="codepen" height="25" width="25"><a href="https://codepen.com/aallithioo/"> Codepen</a></d>
 <!-- <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Telegram" height="25" width="25"><a href="https://telegram.com/aallithioo/"> Telegram</a></li> -->
 <!-- <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/"> Discord</a></li> -->
-</ul>
+</section>
 
 <!-- Bootstrap JS Bundle with Popper -->
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
 <!-- Clear Local storage -->
-
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/ClearLocalStorage.js"></script>
     
 <!-- Disable Hotkey -->
-
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/DisableHotkey.js"></script>
     
 <!-- Disable Right Click -->
-
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/DsiableRightClick.js"></script>
 </body>
 </html>
