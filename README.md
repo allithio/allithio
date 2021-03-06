@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Follow me :
 <pre><b><a href="https://aallithioo.github.io/">Wesite</a></b></pre>
+-->
