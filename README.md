@@ -4,11 +4,7 @@
 My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also coding enthusiast.
 
 ### Follow me :
-- [Instagram](https://instagram.com/aallithioo)  -  [Facebook](https://instagram.com/aallithioo)
-- [Twitter](https://instagram.com/aallithioo)    -  [Codepen](https://instagram.com/aallithioo)
-- [Pinterest](https://instagram.com/aallithioo)
-- [Dribble](https://instagram.com/aallithioo)
-- [Behance](https://instagram.com/aallithioo)
+- [Instagram](https://instagram.com/aallithioo) [Facebook](https://) [Twitter](https://)  [Codepen](https://) [LinkedIn](https://) [Pinterest](https://) [Dribble](https://) [Behance](https://)
 
 <!--
 ### Hi there 👋
