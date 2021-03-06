@@ -25,7 +25,10 @@
 
 <body>
 <!-- GitHub Profile Header Image -->
+    
 ![](https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header-Retina.png)
+
+<img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header-Retina.png" class="img-fluid" alt="GitHub Header">
 
 <!-- Introduction -->
 ### Hi There 👋
@@ -34,13 +37,13 @@ My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also 
 <!-- Social Media -->
 ### Follow me :
 <ul class="d-flex flex-wrap justify-content-around align-items-center list-unstyled text-decoration-none">
-<li class="col-2"><img src="" alt="Instagram" height="25" width="25"><a href="https://instagram.com/aallithioo/">Instagram</a></li>
-<li class="col-2"><img src="" alt="Twitter" height="25" width="25"><a href="https://twitter.com/aallithioo/">Twitter</a></li>
-<li class="col-2"><img src="" alt="Facebook" height="25" width="25"><a href="https://facebook.com/aallithioo/">Facebook</a></li>
-<li class="col-2"><img src="" alt="LinkedIn" height="25" width="25"><a href="https://linkedIn.com/aallithioo/">LinkedIn</a></li>
-<li class="col-2"><img src="" alt="codepen" height="25" width="25"><a href="https://codepen.com/aallithioo/">Codepen</a></li>
-<!-- <li class="col-1"><img src="" alt="Telegram" height="25" width="25"><a href="https://telegram.com/aallithioo/">Telegram</a></li> -->
-<!-- <li class="col-1"><img src="" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/">Discord</a></li> --></ul>
+<li class="col-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Instagram" height="25" width="25"><a href="https://instagram.com/aallithioo/">Instagram</a></li>
+<li class="col-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Twitter" height="25" width="25"><a href="https://twitter.com/aallithioo/">Twitter</a></li>
+<li class="col-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Facebook" height="25" width="25"><a href="https://facebook.com/aallithioo/">Facebook</a></li>
+<li class="col-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="LinkedIn" height="25" width="25"><a href="https://linkedIn.com/aallithioo/">LinkedIn</a></li>
+<li class="col-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="codepen" height="25" width="25"><a href="https://codepen.com/aallithioo/">Codepen</a></li>
+<!-- <li class="col-1"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Telegram" height="25" width="25"><a href="https://telegram.com/aallithioo/">Telegram</a></li> -->
+<!-- <li class="col-1"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/">Discord</a></li> --></ul>
 
 <!-- Bootstrap JS Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
