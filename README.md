@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header.png)
+![](https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header-Retina.png)
 
 ### Hi There 👋
 My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also coding enthusiast.
