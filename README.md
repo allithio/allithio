@@ -44,15 +44,19 @@ My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also 
 <!-- <li class=""><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/">Discord</a></li> --></ul>
 
 <!-- Bootstrap JS Bundle with Popper -->
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
 <!-- Clear Local storage -->
+
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/ClearLocalStorage.js"></script>
     
 <!-- Disable Hotkey -->
+
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/DisableHotkey.js"></script>
     
 <!-- Disable Right Click -->
+
 <script src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Scripts/DsiableRightClick.js"></script>
 </body>
 </html>
