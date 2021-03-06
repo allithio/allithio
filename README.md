@@ -1,5 +1,5 @@
 <pre>
- <img src = "https://user-images.githubusercontent.com/33598841/110195179-08db6e00-7e6f-11eb-89a9-77359b4aec5f.gif" width="1024">
+<img src = "https://user-images.githubusercontent.com/33598841/110195179-08db6e00-7e6f-11eb-89a9-77359b4aec5f.gif" width="1024">
 </pre>
 
 <!--
