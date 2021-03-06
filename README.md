@@ -20,17 +20,8 @@
 <!-- Disable Scrollbar -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Stylesheets/DisableScrollbar.css">
 
-<!-- Google Font -->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
-
-<title>THIO ALLI - GitHub</title>
+<!-- <title>THIO ALLI - GitHub</title> -->
 </head>
-
-<style>
-/* Font */
-* {font-family: 'Open Sans', sans-serif;}
-</style>
 
 <body>
 <!-- GitHub Profile Header Image -->
