@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 ### Follow me :
 <pre><b><a href="https://aallithioo.github.io/">Wesite</a></b></pre>
 -->
-
-##### Made with ❤️ by [Thio Alli](https://github.com/aallithioo)
