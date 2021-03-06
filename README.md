@@ -25,8 +25,7 @@
 
 <body>
 <!-- GitHub Profile Header Image -->
-   
-![](https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header-Retina.png)
+<img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/GitHub-Profile-Header-Retina.png" alt="GitHub Profile Header" target="blocked">
 
 <!-- Introduction -->
 ### Hi There 👋
@@ -41,7 +40,8 @@ My name is Thio Alli, I am a Junior Network Administrator, hacktivist, and also 
 <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="LinkedIn" height="25" width="25"><a href="https://linkedIn.com/aallithioo/"> LinkedIn</a></li>
 <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="codepen" height="25" width="25"><a href="https://codepen.com/aallithioo/"> Codepen</a></li>
 <!-- <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Telegram" height="25" width="25"><a href="https://telegram.com/aallithioo/"> Telegram</a></li> -->
-<!-- <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/"> Discord</a></li> --></ul>
+<!-- <li class="pb-2"><img src="https://cdn.jsdelivr.net/gh/aallithioo/CDN/Images/Pointer-Ellipse.png" alt="Discord" height="25" width="25"><a href="https://discord.com/aallithioo/"> Discord</a></li> -->
+</ul>
 
 <!-- Bootstrap JS Bundle with Popper -->
 
